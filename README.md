@@ -99,7 +99,7 @@ Todos os recursos respondem em JSON.
 ```bash
 curl -X POST http://localhost:8080/clientes \
   -H "Content-Type: application/json" \
-  -d '{"nome":"NicolasRU","clienteDesde":"2026-10-06"}'
+  -d '{"nome":"Nicolas4625809","clienteDesde":"2026-10-06"}'
 
 curl -X POST http://localhost:8080/produtos \
   -H "Content-Type: application/json" \

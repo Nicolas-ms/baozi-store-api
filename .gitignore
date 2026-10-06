@@ -45,3 +45,6 @@ data/
 *.odt
 *.docx
 docs/prints/
+
+### Locks do LibreOffice
+.~lock.*#
